@@ -1,5 +1,5 @@
 ## Usages
 
-* `Simulation` - the R code for causal forest, causal tree, S learner, T learner, used for estimating heterogeneous treatment effect on simulated dataset.
+* `Simulation` - the R code of random forest model for three scenarios, used for prediction on simulated micribiome dataset.
 
-* `ACCORD Data Analysis` -  the R code used for manipulating ACCORD data and estimating heterogeneous treatment effect on ACCORD dataset.
+* `Pulmonary Mcrobiome Data Analysis` -  the R code for random forest, used for lung function prediction on Pulmonary Microbiome dataset.
